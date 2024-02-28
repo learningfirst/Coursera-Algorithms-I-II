@@ -1,1 +1,1 @@
-Princeton大学的经典算法课程Algorithms1的前五个project。
+Coursera平台的算法课程Algorithms1的五个project,供参考。
